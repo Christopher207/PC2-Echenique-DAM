@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800294956917",
+    "project_id": "pc2-dam",
+    "storage_bucket": "pc2-dam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800294956917:android:19d8b6e72bbab859e6ed3c",
+        "android_client_info": {
+          "package_name": "com.example.pc2_echenique_dam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAHpCrjTpZfOuBF5qObXvyCl6cmGR-ibA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
